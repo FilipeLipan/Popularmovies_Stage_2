@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\exploded-aar\com.firebase\firebase-jobdispatcher\0.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7d1d5f89815c94a839ffd4de5f083f5e166d9a5">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\com.firebase-firebase-jobdispatcher-0.5.0_c6a674bc53cd55b0b7744c9bf1abe99b527aaf13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lispa\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_984ac76fd3975d886233cb10ef839403a41ecd2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_aa241262f4361e0d3156788825d5ba578b6c7d95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lispa\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_3271f5b92e39e6097d6bd844fcd73d0925eb9d34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.4.0_59eb8ec1b4cf601705822061b4072c2b95fd4aa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_b6abeb52a9fac3fd2891d4737d7ff944bed956cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_cee50a35cf48557061de5cc2f85113b3da363736.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_d226b416c34082b0e424f2513e79f18d5885fd21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_5130cc2170e1c27ccfb1a6ba70a1fce1bfcf3565.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_bf611865fd86d486a0cea09b59a7dce7aa162ab9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_92c86dac17bf6b4bf6be2dfb09ea6d0bed57b060.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\exploded-aar\cat.ereza\customactivityoncrash\1.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="731adea82d8271cde9385de2dc01e3c8ed231570">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\cat.ereza-customactivityoncrash-1.5.0_45de05e437c16aa6cbf8a9da4ad0a1a411e506c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19c55e31ab209ed6c444a1e2e223b77f3f3bdbe1">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\instant-run_74673452859b6b22c7d0ca3203f75f9c8ef69777.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lispa\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\retrofit-2.2.0_a5ba2804680ac22b2d4e7f4a97d9bddf924a2f93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_1e54cb5d5c89e82c5ed01296e5633a3699c4a926.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_b7be7c4cc86be257c37b389c749c1e3f14ac1d5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_3e74228427da4161f0ff0ad0b05c4f6434e83f64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lispa\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\okio-1.11.0_7ed6e07f51eb8d8c4044562ab1786762c315f15e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lispa\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0\constraint-layout-solver-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90493f2ea15ff3f57416368123e5d4d180e0c6fd">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0_e166468462502ed78645da1e27f27f0d5c585892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lispa\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.2.0\a09926806199499a20b2f5168779499abfa33342\converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\converter-gson-2.2.0_cc90d0270fae9b677538d2f7e355ec35e2fcfa25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lispa\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_279ca30f3d1d04002993380e5220db6c7e1980f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_fece895d33036ea0d8567168a6ce98283d069868.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lispa\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_f97182635cb3813759effb5b37f085a4d28a74db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_ac8aa97dd52b742f5929cd3c8170359cf28c6fc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="66a87d20b05fee785a51e5260709b59c1d2f40ad">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a20d2c311de99abf2ff4a0f059ccea7a68eaf53a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lispa\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\gson-2.7_202c90becc7c605a27acab18f9bbb4419a4f4d05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.0_3c996c94594aedfa00de4c33c216d8594beb5043.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20672631818754557255886d3feb43e7fe75a66">
+        <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0_1ace7e7496e901faac842fe9c4e0263512a9997a.jar" />
+    </item>
+
+</items>
