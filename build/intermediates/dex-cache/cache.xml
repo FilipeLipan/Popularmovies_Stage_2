@@ -115,7 +115,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="19c55e31ab209ed6c444a1e2e223b77f3f3bdbe1">
+        sha1="2f4eba83cb2559fc63136c6f1c07a6df6db2f130">
         <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\instant-run_74673452859b6b22c7d0ca3203f75f9c8ef69777.jar" />
     </item>
     <item
@@ -223,7 +223,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="66a87d20b05fee785a51e5260709b59c1d2f40ad">
+        sha1="e14bb3ef02ef3d7f3a0c3d7e859b1e4b7eaeaaff">
         <dex dex="C:\DroidFilipeProjeto\Popularmovies\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a20d2c311de99abf2ff4a0f059ccea7a68eaf53a.jar" />
     </item>
     <item

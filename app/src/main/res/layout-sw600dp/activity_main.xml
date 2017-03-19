@@ -24,23 +24,23 @@
     </android.support.design.widget.AppBarLayout>
 
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
         android:id="@+id/main_activity_linear_layout"
-        android:orientation="horizontal"
-        android:layout_below="@+id/apbar_layout_main_activity">
-
-    <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/ph_detail_fragment_tablet"
-        android:layout_weight="4"
-        />
+        android:baselineAligned="false"
+        android:layout_below="@+id/apbar_layout_main_activity"
+        android:orientation="horizontal">
 
-    <FrameLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_weight="3"
-        android:id="@+id/ph_movies_fragment_tablet"/>
+        <FrameLayout
+            android:id="@+id/ph_movies_fragment_tablet"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="3" />
+
+        <FrameLayout
+            android:id="@+id/ph_detail_fragment_tablet"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="2" />
     </LinearLayout>
 </RelativeLayout>
