@@ -15,6 +15,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
+import android.util.DisplayMetrics;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
@@ -145,7 +146,7 @@ public class GridMoviesFragment extends Fragment implements LoaderManager.Loader
 
 
         mMovieAdapter = new MovieAdapter(null, mContext);
-        mGridView.setLayoutManager(new GridLayoutManager(mContext, 2));
+        mGridView.setLayoutManager(new GridLayoutManager(mContext, calculateNoOfColumns(mContext)));
         mGridView.setAdapter(mMovieAdapter);
 
         Bundle bundle = new Bundle();
@@ -198,6 +199,29 @@ public class GridMoviesFragment extends Fragment implements LoaderManager.Loader
     public void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState);
         outState.putBoolean(KEY_ISFIRSTTIMEOPEN, mIsFirstTimeOpen);
+    }
+
+    /**
+     * Calculate the number of columns for the Gridview
+     *
+     * @param context Used to access the DisplayMetrics
+     * @return An int resulting from the division between the screen width and a given dp.
+     */
+    public static int calculateNoOfColumns(Context context) {
+        DisplayMetrics displayMetrics = context.getResources().getDisplayMetrics();
+        float dpWidth = displayMetrics.widthPixels / displayMetrics.density;
+        int noOfColumns = 0;
+
+        if(context.getResources().getBoolean(R.bool.is_tablet)){
+            noOfColumns = (int) (dpWidth / 480);
+        }else {
+            noOfColumns = (int) (dpWidth / 180);
+        }
+
+        if(noOfColumns <= 0){
+            noOfColumns = 1;
+        }
+        return noOfColumns;
     }
 
     public void loadMovies(int option){
